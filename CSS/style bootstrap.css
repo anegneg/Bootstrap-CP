@@ -1,0 +1,49 @@
+body{
+    color: #001662 !important;
+}
+
+.header img{
+    width:100%;
+    height: 350px;
+
+}
+
+.container-fluid img{
+      position: relative;
+      vertical-align: middle;
+      margin:auto;
+      margin-left:40%;
+      height:200px;
+      top:-100px;
+      border-top-left-radius: 50%;
+      border-bottom-right-radius: 50%;
+      border-top-right-radius: 50%;
+      border-bottom-left-radius: 50%;
+
+}
+
+.link{
+    vertical-align: middle;
+    margin-left: 500px; 
+    width: 150px;
+}
+
+.photo{
+    height: 50px;
+    box-sizing: border-box;
+
+}
+.job{
+    vertical-align: middle;
+    margin-left: 500px;
+    text-transform: lowercase;
+}
+
+.Name{
+    vertical-align: middle;
+    margin-left: 450px;
+}
+
+.TITRE{
+    color: #ff5c57;
+}
